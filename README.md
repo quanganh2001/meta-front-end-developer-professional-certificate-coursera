@@ -26,6 +26,7 @@ List courses of Meta Front-end Developer Professional Certificate
   - [Quiz video](02_programming-with-javascript/01_introduction-to-javascript/quiz_video.md)
 - [The Building Blocks of a Program](02_programming-with-javascript/02_the-building-blocks-of-a-program/README.md)
   - [Arrays, Objects and Functions](02_programming-with-javascript/02_the-building-blocks-of-a-program/01_arrays-objects-and-functions/README.md)
+  - [Error Handling](02_programming-with-javascript/02_the-building-blocks-of-a-program/02_error-handling/README.md)
 - [End-of-Course Graded Assessment](02_programming-with-javascript/05_end-of-course-graded-assessment/README.md)
   - [End-of-Course Graded Assessment](02_programming-with-javascript/05_end-of-course-graded-assessment/01_end-of-course-graded-assessment/README.md)
   - [Course wrap up](02_programming-with-javascript/05_end-of-course-graded-assessment/02_course-wrap-up/README.md)

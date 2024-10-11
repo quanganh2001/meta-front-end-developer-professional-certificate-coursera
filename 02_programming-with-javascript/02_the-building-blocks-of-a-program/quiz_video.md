@@ -85,3 +85,38 @@ C. Number
 D. BigInt
 
 The correct answer is Boolean. Explain: When you compare two numbers using the comparison operator, the return value is either true or false - and the typeof returns 'Boolean' as the underlying data type.
+# Error Handling
+## Bugs and Errors
+Which of the following errors occur when you write a piece of code that JavaScript cannot read?
+
+A. ReferenceError
+
+B. TypeError
+
+***C. SyntaxError***
+
+Explain: SyntaxError occurs when you write a piece of code that JavaScript cannot read. 
+## Try catch blocks
+The try catch JavaScript statement can keep a program running even when it encounters an error. True or false?
+
+***A. True***
+
+B. False
+
+It is true statement. Explain: The try catch statement keeps a program running when it encounters an error.
+## Undefined, null and empty values
+What is the expected output of the following code?
+```js
+var food;
+
+console.log(food);
+```
+A. The console.log will result in the message ‘ReferenceError’.
+
+B. The console.log will display a value of ‘food’.
+
+C. Nothing will be displayed.
+
+***D. The console.log will display a value of ‘undefined’.***
+
+Explain: When declared with 'var', an unassigned variable will be initialized with the value 'undefined'.
