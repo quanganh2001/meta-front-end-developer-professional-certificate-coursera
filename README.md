@@ -23,3 +23,6 @@ List courses of Meta Front-end Developer Professional Certificate
   - [Setting up](02_programming-with-javascript/01_introduction-to-javascript/01_setting-up/README.md)
   - [Welcome to programming](02_programming-with-javascript/01_introduction-to-javascript/02_welcome-to-programming/README.md)
   - [Conditionals and Loops](02_programming-with-javascript/01_introduction-to-javascript/03_conditionals-and-loops/README.md)
+- [End-of-Course Graded Assessment](02_programming-with-javascript/05_end-of-course-graded-assessment/README.md)
+  - [End-of-Course Graded Assessment](02_programming-with-javascript/05_end-of-course-graded-assessment/01_end-of-course-graded-assessment/README.md)
+  - [Course wrap up](02_programming-with-javascript/05_end-of-course-graded-assessment/02_course-wrap-up/README.md)
