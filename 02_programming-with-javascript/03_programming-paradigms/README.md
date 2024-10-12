@@ -15,3 +15,6 @@ This module is about functional programming and the oriented programming paradig
 - [Introduction to functional programming](01_introduction-to-functional-programming/README.md)
 - [Introduction to Object-Oriented Programming](02_introduction-to-object-oriented-programming/README.md)
 - [Advanced Javascript Features](03_advanced-javascript-features/README.md)
+- [Javascript in the browser](04_javascript-in-the-browser/README.md)
+
+See all quizzes video at [here](quiz_video.md)

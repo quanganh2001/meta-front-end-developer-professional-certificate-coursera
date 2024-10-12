@@ -147,3 +147,47 @@ The rest operator allows you to take items from an array and use them to create 
 B. False
 
 It is true statement. Explain: The rest operator can be used to destructure existing array items, rather than typing them out again.
+# Javascript in the browser
+## JavaScript modules
+Which of the following statements about modules in JavaScript are true? Choose all that apply.  
+
+- [ ] Different module specifications, such asCommonJS, are universally compatible .
+- [X] Modules were added to ECMAScript ES6 specification  
+- [X] Modules allow for code to be reused and more easily replaced.
+- [X] To use an ES6 module in a browser, you need to set the script type attribute to “module”  
+
+Explain: Modules were added to JavaScript in version ES6. Modules were added to JavaScript in version ES6 and allow for code to be imported, reused and more easily replaced. To use an ES6 module in a browser, the script's type attribute must be set to “module”.  
+## JavaScript DOM manipulation
+True or false? Editing the local DOM of a webpage does not affect the document stored on the webserver.
+
+***A. True***
+
+B. False
+
+It is true statement. Explain: The DOM is an in-memory representation of the active HTML document. Any changes made are local and do not affect the document stored on the webserver.
+## JavaScript selectors
+Which of the following are JavaScript DOM selectors? Check all that apply .
+
+- [X] querySelector()
+- [X] querySelectorAll()
+- [X] getElementById()
+- [X] getElementsByClassName()
+- [ ] getAttribute()
+
+Explain: This querySelector() method returns the first element in the document that matches the selector. This querySelectorAll() method returns all elements in the document that match the selector. This getElementById() method returns a specific element whose id matches the selector. This getElementsByClassName() method returns all elements in the document that has the class specified in the selector. 
+## Event handling
+You are using JavaScript code on your website to listen out for events. Which of the following are examples of events that your code can listen out for? Check all that apply.
+
+- [X] Button click
+- [X] Icon tap
+- [ ] Using the command line software on your computer.
+
+Explain: Button click is an example of an event that your code can listen out for. Icon tap is an example of an event that your code can listen out for.
+## JavaScript Object Notation - JSON
+You can convert a JSON file to a JavaScript object so that you can work with that object's properties.
+
+***A. True***
+
+B. False
+
+It is true statement. Explain: When working with JSON it is common to convert it back to a JavaScript object to work with its properties. To do this you need to use the global built-in JSON object and its parse method.  
