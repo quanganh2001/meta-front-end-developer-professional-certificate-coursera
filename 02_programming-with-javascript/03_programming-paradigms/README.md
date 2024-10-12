@@ -9,3 +9,9 @@ This module is about functional programming and the oriented programming paradig
 - Use JSON in JavaScript
 - Build code that manipulates the DOM and handles events
 - Write JavaScript code using more modern features like spread, rest, template strings, and modules
+
+**List of courses**
+
+- [Introduction to functional programming](01_introduction-to-functional-programming/README.md)
+- [Introduction to Object-Oriented Programming](02_introduction-to-object-oriented-programming/README.md)
+- [Advanced Javascript Features](03_advanced-javascript-features/README.md)

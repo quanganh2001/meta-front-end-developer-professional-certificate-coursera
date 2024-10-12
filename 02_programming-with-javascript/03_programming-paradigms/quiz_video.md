@@ -94,3 +94,56 @@ True or false? In JavaScript, you can use a prototype object to hold properties 
 B. False
 
 It is true statement. Explain: The prototype is an object that can have properties to be shared by multiple other objects.
+# Advanced Javascript Features
+## De-structuring arrays and objects
+True or False. In JavaScript, it's possible to extract the properties from objects into distinct variables using destructuring.
+
+***A. True***
+
+B. False
+
+It is true statement. Explain: In JavaScript, it's possible to extract the properties from objects into distinct variables using destructuring.
+## For-of loops and objects
+When working with objects, the for-of loop and for-in loop can be used to iterate over the object's properties. Which of the following statements are correct? Choose all that apply. 
+- [X] The for-of loop will iterate over the object's own properties only when using the Object.keys() method to return an array to loop over.
+- [X] The for-of loop will not iterate over the object and its prototype properties.
+- [ ] The for-in loop will not iterate over the object and its properties.
+
+Explain: The for-of loop will iterate over the object's own properties only when using the Object.keys() method to return an array to loop over. The for-of loop will not iterate over the object and its prototype properties.
+## Working with template literals
+In what ways can template literals be used to write JavaScript code more efficiently? Check all that apply:
+
+- [X] You can create multi-line strings.
+- [X] You can interpolate variables.
+- [X] You can combine strings with less code.
+- [ ] You can use variables that have not been declared.
+
+Explain: Template literals can be used to create multi-line strings, interpolate variables, and to combine strings with simpler code. 
+## Data Structures
+Which one of these data structures consists of iterable key-value pairs?
+
+***A. Maps***
+
+B. Arrays
+
+C. Sets
+
+D. Objects
+
+Explain: Maps are made up of iterable key value pairs.
+## Spread operator
+The spread operator allows you to pass all array elements into a function without having to type them all individually. Is this true or false?
+
+***A. True***
+
+B. False
+
+It is true statement. Explain: The spread operator will include all of the array elements with much less code.
+## Rest operator
+The rest operator allows you to take items from an array and use them to create a separate sub-array. True or false?
+
+***A. True***
+
+B. False
+
+It is true statement. Explain: The rest operator can be used to destructure existing array items, rather than typing them out again.
