@@ -10,3 +10,10 @@ Here you'll learn how to use objects, arrays and functions. In addition, you wil
 - Explain the difference between undefined, null, and empty strings
 
 - Demonstrate how to write basic code using arrays, objects, and functions
+
+**List Courses**
+
+- [Arrays, Objects and Functions](01_arrays-objects-and-functions/README.md)
+- [Error Handling](02_error-handling/README.md)
+
+See video quiz at [here](quiz_video.md)
