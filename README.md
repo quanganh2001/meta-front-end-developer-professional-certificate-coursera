@@ -34,6 +34,8 @@ List courses of Meta Front-end Developer Professional Certificate
   - [Advanced Javascript features](02_programming-with-javascript/03_programming-paradigms/03_advanced-javascript-features/README.md)
   - [Javascript in the browser](02_programming-with-javascript/03_programming-paradigms/04_javascript-in-the-browser/README.md)
   - [Quiz video](02_programming-with-javascript/03_programming-paradigms/quiz_video.md)
+- [Testing](02_programming-with-javascript/04_testing/README.md)
+  - [Quiz video](02_programming-with-javascript/04_testing/quiz_video.md)
 - [End-of-Course Graded Assessment](02_programming-with-javascript/05_end-of-course-graded-assessment/README.md)
   - [End-of-Course Graded Assessment](02_programming-with-javascript/05_end-of-course-graded-assessment/01_end-of-course-graded-assessment/README.md)
   - [Course wrap up](02_programming-with-javascript/05_end-of-course-graded-assessment/02_course-wrap-up/README.md)
